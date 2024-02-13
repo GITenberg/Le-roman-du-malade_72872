@@ -1,0 +1,27 @@
+_repo: Le-roman-du-malade_72872
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robert, Louis de
+    gutenberg_agent_id: '56843'
+    url: http://www.gutenberg.org/2009/agents/56843
+description: ''
+gutenberg_issued: '2024-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72872'
+language: fr
+pgterms:marc904: https://archive.org/details/leromandumalade00robeuoft
+pgterms:marc905: 20231217031124robert
+pgterms:marc906: '1911'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aParis :$bEugène Fasquelle, $c1911, pubdate 1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le roman du malade
+url: http://www.gutenberg.org/ebooks/72872
